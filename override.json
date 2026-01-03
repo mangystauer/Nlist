@@ -7,11 +7,11 @@
     "domain:steamserver.net",
     "domain:epicgames.com",
     "domain:epicgames.io",
-    "domain:unrealengine.com"
+    "domain:unrealengine.com",
+    "domain:facebook.com"
   ],
   "vless": [
     "youtube.com",
-    "facebook.com",
     "instagram.com",
     "twitter.com",
     "reddit.com"
