@@ -1,1 +1,20 @@
+{
+  "direct": [
+    "domain:steampowered.com",
+    "domain:steamcommunity.com",
+    "domain:steamstatic.com",
+    "domain:steamcontent.com",
+    "domain:steamserver.net",
+    "domain:epicgames.com",
+    "domain:epicgames.io",
+    "domain:unrealengine.com"
+  ],
+  "vless": [
+    "youtube.com",
+    "facebook.com",
+    "instagram.com",
+    "twitter.com",
+    "reddit.com"
+  ]
+}
 
