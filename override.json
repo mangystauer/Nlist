@@ -8,7 +8,14 @@
     "domain:epicgames.com",
     "domain:epicgames.io",
     "domain:unrealengine.com",
-    "domain:facebook.com"
+    "domain:facebook.com",
+    "domain:telegram.org",
+    "domain:telegram.me",
+    "domain:t.me",
+    "domain:tdesktop.com",
+    "domain:telegrampush.com",
+    "domain:telegra.ph",
+    "domain:tg.dev"
   ],
   "vless": [
     "youtube.com",
