@@ -15,7 +15,20 @@
     "domain:tdesktop.com",
     "domain:telegrampush.com",
     "domain:telegra.ph",
-    "domain:tg.dev"
+    "domain:tg.dev",
+    "domain:telesco.pe",
+    "domain:cdn-telegram.org",
+    "domain:telegram-cdn.org",
+    "domain:comments.app",
+    "domain:contest.com",
+    "domain:fragment.com",
+    "domain:graph.org",
+    "domain:quiz.directory",
+    "domain:telega.one",
+    "domain:telegram.dog",
+    "domain:telegram.space",
+    "domain:tx.me",
+    "domain:usercontent.dev"
   ],
    "direct_ips": [
     "91.105.192.0/23",
