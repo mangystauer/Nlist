@@ -28,7 +28,16 @@
     "domain:telegram.dog",
     "domain:telegram.space",
     "domain:tx.me",
-    "domain:usercontent.dev"
+    "domain:usercontent.dev",
+    "domain:zoom.us",
+    "domain:zoom.com",
+    "domain:zoomgov.com",
+    "domain:zoomconnector.com",
+    "domain:zoom.com.cn",
+    "domain:zoomus.com",
+    "domain:bouncehelp.com",
+    "domain:cloudzoom.us",
+    "domain:zoom-cdn.us"
   ],
    "direct_ips": [
     "91.105.192.0/23",
