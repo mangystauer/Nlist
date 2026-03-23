@@ -23,7 +23,7 @@
     "domain:cloudzoom.us",
     "domain:zoom-cdn.us"
   ],
-   "direct_ips": [
+  "direct_ips": [
     "91.105.192.0/23",
     "91.108.4.0/22",
     "91.108.8.0/22",
@@ -39,9 +39,20 @@
     "185.76.151.0/24"
   ],
   "vless": [
-    "youtube.com",
-    "twitter.com",
-    "reddit.com"
+    "domain:youtube.com",
+    "domain:youtu.be",
+    "domain:googlevideo.com",
+    "domain:ytimg.com",
+    "domain:ggpht.com",
+    "domain:youtube-nocookie.com",
+    "domain:twitter.com",
+    "domain:x.com",
+    "domain:twimg.com",
+    "domain:reddit.com",
+    "domain:instagram.com",
+    "domain:facebook.com",
+    "domain:fbcdn.net",
+    "domain:instagram.fbsbx.com",
+    "domain:scontent.cdninstagram.com"
   ]
 }
-
